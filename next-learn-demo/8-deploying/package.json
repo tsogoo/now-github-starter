@@ -12,6 +12,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@sanity/block-content-to-react": "^2.0.7",
+    "@sanity/client": "^0.144.0",
+    "@sanity/image-url": "^0.140.15",
+    "contentful": "^7.10.0",
+    "groq": "^0.144.0",
     "next": "^9.0.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
